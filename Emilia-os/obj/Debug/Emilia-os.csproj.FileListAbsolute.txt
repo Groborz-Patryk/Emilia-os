@@ -1,0 +1,5 @@
+C:\Users\Haker\Documents\SharpDevelop Projects\Emilia-os\Emilia-os\bin\Debug\Emilia-os.exe
+C:\Users\Haker\Documents\SharpDevelop Projects\Emilia-os\Emilia-os\bin\Debug\Emilia-os.pdb
+C:\Users\Haker\Documents\SharpDevelop Projects\Emilia-os\Emilia-os\obj\Debug\Emilia-os.csprojResolveAssemblyReference.cache
+C:\Users\Haker\Documents\SharpDevelop Projects\Emilia-os\Emilia-os\obj\Debug\Emilia-os.exe
+C:\Users\Haker\Documents\SharpDevelop Projects\Emilia-os\Emilia-os\obj\Debug\Emilia-os.pdb
